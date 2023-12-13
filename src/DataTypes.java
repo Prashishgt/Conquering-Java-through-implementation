@@ -1,4 +1,4 @@
-package DataTypes;
+package src;
 
 public class DataTypes {
     
