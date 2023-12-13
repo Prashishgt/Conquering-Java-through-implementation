@@ -1,4 +1,4 @@
-package src;
+package src.Fundamentals;
 
 public class Loop {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Loop {
         // }
         
         int count = 1;
-        boolean check = true;
+        // boolean check = true;
 
         // while (check) {
         //     System.out.println(count);

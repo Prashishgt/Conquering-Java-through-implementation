@@ -1,4 +1,4 @@
-package src;
+package src.Fundamentals;
 
 public class TypeCasting {
     public static void main(String[] args) {
