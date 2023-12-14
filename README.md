@@ -14,3 +14,8 @@
 - Loops (Do, while and for)
 - Class and objects
 - Methods
+- Heap and stack
+- Array
+
+## Day 3
+- Multi Dimentional Array
