@@ -18,4 +18,10 @@
 - Array
 
 ## Day 3
+
 - Multi Dimentional Array
+
+## Day 4
+
+- Drawbacks of array
+- For each loop
