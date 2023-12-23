@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class Switch {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         int n = 4;
 
         // old switch statement
@@ -41,7 +41,7 @@ public class Switch {
         }
 
         // new switch 
-        String day = "noon";
+        StringManipulation day = "noon";
         
         switch(day){
             case "morning", "afternoon" ->  System.out.println("10am");

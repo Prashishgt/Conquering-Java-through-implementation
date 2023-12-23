@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         int num1 = 8;
         // int num2 = 4;
         

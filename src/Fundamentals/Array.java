@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class Array {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         int num[] = {4,5,6,7};
         // int num[] = new int[5];
         // above statement will assign num[] with value of zero

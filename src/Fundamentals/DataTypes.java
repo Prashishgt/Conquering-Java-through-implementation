@@ -2,7 +2,7 @@ package src.Fundamentals;
 
 public class DataTypes {
     
-    public static void main(String a[]){
+    public static void main(StringManipulation a[]){
         // integer: byte - 4 byte, long - 8 byte, short - 2 byte and byte - 1 byte
         // float - 4 byte and double - 8 byte, with double as a default
         // characters - 2 byte, UNICODE ' ';

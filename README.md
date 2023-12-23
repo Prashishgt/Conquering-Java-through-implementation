@@ -25,3 +25,9 @@
 
 - Drawbacks of array
 - For each loop
+
+## Day 5
+
+- String
+- Immutable and Mutable Strings
+- Static Keyword, variable and methods

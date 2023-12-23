@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class Comparison {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         
         int x = 6;
         int y = 5;

@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class TypeCasting {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         // type casting in java
         // explicit conversion
         byte b = 127;

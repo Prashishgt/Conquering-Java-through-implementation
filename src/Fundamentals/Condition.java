@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class Condition {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         int x = 10;
 
         if (x >= 10) {
@@ -12,7 +12,7 @@ public class Condition {
 
         // ternary operator
         int check = 8;
-        String result = "";    
+        StringManipulation result = "";    
 
         result = check % 2 == 0 ? "even" : "odd";
         System.out.println(result);

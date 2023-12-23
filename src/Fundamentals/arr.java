@@ -1,7 +1,7 @@
 package src.Fundamentals;
 
 public class arr {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         Student s1 = new Student();
 
         s1.setName("Ivey");
@@ -23,7 +23,7 @@ public class arr {
         // }
 
        for (Student stud : students) {
-        System.out.println(String.format("%s : %d", stud.name, stud.age));
+        System.out.println(StringManipulation.format("%s : %d", stud.name, stud.age));
         }
 
 
@@ -42,9 +42,9 @@ public class arr {
 
 class Student {
     public int age;
-    public String name;
+    public StringManipulation name;
 
-    public void setName(String _name){
+    public void setName(StringManipulation _name){
         this.name = _name;
     }
 
