@@ -6,6 +6,10 @@ class Mobile {
     // String network;
     static String name;
 
+    static {
+        name = "IPhone X";
+    }
+
     public void show(){
         System.out.println("This is non static method");
     }
@@ -23,7 +27,7 @@ public class StaticKeyword {
         
         // these above are called instance variable 
         // below is called static variable and shared among every instance and should be accessed using class itself
-        Mobile.name = "iphone 10";
+        // Mobile.name = "iphone 10";git
 
         // static method and like variable can be called from class itself
         // Mobile.view();
